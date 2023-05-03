@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**tarakan1ivan/tarakan1ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on
 
-Here are some ideas to get you started:
+  • Frontend project development for use by the administration and the team
+  • With my physical form
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning
+
+  • Backend and frontend framework
+  • Study English and Polish
+  • Play outdoor games like basketball
+  • Just trying to enjoy life
+
+- 👯 I am looking for cooperation with people who :
+
+  • Are interested in pictures and obsessed with the knowledge of everything and everything
+  • Ready for a challenge
+  • Creative, picky, gambling and groovy
+  • They will tell a lot of new things in any field, preferably IT
+
+- 🤔 I’m looking for help with backend and new frontend frameworks and dispersal of boredom around
+
+- 💬 Ask me about my food preferences
+
+- 📫 How to reach me:
+
+  • telegram https://t.me/rrkst_qq
+  • e-mail tarakanivan839@gmail.com
+
+- 😄 Pronouns: rostok
+
+- ⚡ Fun fact: I have been a dancer for about 10 years
